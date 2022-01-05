@@ -6,12 +6,11 @@
 /*** set the content type header ***/
 /*** Without this header, it wont work ***/
 header("Content-type: text/css");
-
-
 $font_family = 'Arial, Helvetica, sans-serif';
 $font_size = '3rem';
 $border = '1px solid #888888';
 ?>
+
 @font-face {
 font-family: 'Elianto';
 font-style: normal;
